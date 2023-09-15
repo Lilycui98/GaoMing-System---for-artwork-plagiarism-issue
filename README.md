@@ -1,0 +1,1 @@
+# GaoMing-System---for-artwork-plagiarism-issue
